@@ -1,6 +1,6 @@
 # My-PTL
 Personal Template Library
-You can find these sorts:
+You can find these sorting algorithms:
   
   Selection Sort
   
