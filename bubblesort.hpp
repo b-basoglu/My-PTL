@@ -21,4 +21,4 @@ namespace ptl {
 }
 
 
-#endif /* __PTL_SELECTION_SORT_H__ */
+#endif /* __PTL_BUBBLE_SORT_H__ */
