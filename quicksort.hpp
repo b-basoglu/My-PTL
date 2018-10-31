@@ -8,7 +8,7 @@ namespace ptl {
     template <class T>
     void partition(vector<T> &theArray, int first, int last,int &pivotIndex) {
         
-        // i did'nt care about pivot if you want to choose one write a function which makes pivot the first element of list
+        // i choose first element of the array as pivot
         
 
         T pivot = theArray[first];
